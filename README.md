@@ -1,6 +1,6 @@
 # Salesforce Code Review Agent
 
-A [Cursor](https://cursor.com) agent that reviews Salesforce DX source the way a platform architect would: Apex, Lightning Web Components, Aura, Flows, and metadata.
+A [Cursor](https://cursor.com) agent that reviews Salesforce DX source the way a platform architect would: Apex, Lightning Web Components, Aura, Flows, and  metadata.
 
 It packages:
 
